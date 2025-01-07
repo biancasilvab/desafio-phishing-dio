@@ -15,3 +15,4 @@
 • Inserir a url para clone (https://github.com/login) <div>
 
 # Conclusão
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/biancasilvab/desafio-phishing-dio/blob/main/phishing.png)
