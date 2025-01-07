@@ -7,12 +7,12 @@
 ## Utilizando phishing na prática: 
 
 <div>
-• Entrar no modo → **sudo su** <div>
-• Iniciar a ferramenta → **Setoolkit** <div>
-• Acessar → **Social-Engineering Attacks** <div>
-• Acessar → **Website Attack Vectos** <div>
-• Acessar → **Credential Harvester Attack Method** <div>
-• Acessar → **Site Cloner** <div>
+• Entrar no modo → sudo su <div>
+• Iniciar a ferramenta → Setoolkit <div>
+• Acessar → Social-Engineering Attacks <div>
+• Acessar → Website Attack Vectos <div>
+• Acessar → Credential Harvester Attack Method <div>
+• Acessar → Site Cloner <div>
 • Confirmar o IP da máquina <div>
 • Inserir a url para clone (https://github.com/login) <div>
 
